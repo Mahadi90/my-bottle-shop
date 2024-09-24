@@ -1,6 +1,6 @@
 import React from "react";
 
-const Bottle = ({bottle}) => {
+const Bottle = ({bottle , handleAddcart}) => {
     const {name, image, description, price, id} = bottle;
   return (
     <div className="card card-compact bg-base-100 shadow-xl">
@@ -16,7 +16,7 @@ const Bottle = ({bottle}) => {
         <p>{description}</p>
         <p>Price : ${price}</p>
         <div className="card-actions justify-end">
-          <button className="btn btn-primary">Add to cart</button>
+          <button onClick={() => handleAddcart(id)} className="btn btn-primary">Add to cart</button>
         </div>
       </div>
     </div>

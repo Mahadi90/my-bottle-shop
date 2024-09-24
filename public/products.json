@@ -1,56 +1,56 @@
 {
     "products": [
       {
-        "id": 1,
+        "id": "1eq2",
         "name": "Water Bottle",
         "image": "https://plus.unsplash.com/premium_photo-1664527305901-db3d4e724d15?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A durable and reusable water bottle.",
         "price": 10.99
       },
       {
-        "id": 2,
+        "id": "213jh23",
         "name": "Sports Bottle",
         "image": "https://plus.unsplash.com/premium_photo-1723744998374-b743c0a28d55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A sleek bottle designed for athletes.",
         "price": 12.99
       },
       {
-        "id": 3,
+        "id": "32jf",
         "name": "Glass Bottle",
         "image": "https://images.unsplash.com/photo-1662454378054-8613b673b11e?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "An eco-friendly glass bottle.",
         "price": 15.99
       },
       {
-        "id": 4,
+        "id": "21jhf",
         "name": "Insulated Bottle",
         "image": "https://images.unsplash.com/photo-1633354509816-ad13f6fd4276?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "Keeps drinks hot or cold for hours.",
         "price": 20.99
       },
       {
-        "id": 5,
+        "id": "36dgw4",
         "name": "Stainless Steel Bottle",
         "image": "https://images.unsplash.com/photo-1558640476-437a2b9438a2?q=80&w=1942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A high-quality stainless steel bottle.",
         "price": 18.99
       },
       {
-        "id": 6,
+        "id": "23567ghr",
         "name": "Plastic Bottle",
         "image": "https://plus.unsplash.com/premium_photo-1681484141443-3a0d7cb0abc0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A lightweight plastic bottle for daily use.",
         "price": 8.99
       },
       {
-        "id": 7,
+        "id": "7346fgh",
         "name": "Collapsible Bottle",
         "image": "https://images.unsplash.com/photo-1517559421643-54bc2e32021c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A space-saving collapsible bottle.",
         "price": 14.99
       },
       {
-        "id": 8,
+        "id": "24375fghw",
         "name": "Infuser Bottle",
         "image": "https://images.unsplash.com/photo-1564693553932-eaae9e9ac4e1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "A bottle with a fruit infuser for flavored water.",
